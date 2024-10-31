@@ -4,5 +4,5 @@
 
 ## Contents
 - Standford CS 229, Machine Learning Course
-- 持续更新中...
-
+- Thomas Calculus
+- MATH for AI \& AI for MATH (Wuhan University course, 武汉大学数学院公开课)
