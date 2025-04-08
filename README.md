@@ -8,3 +8,5 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
 - [Standford CS 229, Spring 2022, Machine Learning Course](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
 - Thomas Calculus
 - [Reinforce learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning), by Shiyu Zhao, from Westlake University
+- Classic Papers
+  1. Sequence to Sequence Learning with Neural Networks
