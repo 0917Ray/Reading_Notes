@@ -9,4 +9,4 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
 - Thomas Calculus
 - [Reinforce learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning), by Shiyu Zhao, from Westlake University
 - Classic Papers
-  1. Sequence to Sequence Learning with Neural Networks
+  1. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
