@@ -11,3 +11,13 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
 - Optimization for data analysis, by [STEPHEN J. WRIGHT](https://wrightstephen.github.io/sw_proj/) and [BENJAMIN RECHT](https://people.eecs.berkeley.edu/~brecht/index.html)
 - Classic Papers
   1. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+
+## Star History
+
+<a href="https://www.star-history.com/#0917Ray/Reading_Notes&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0917Ray/Reading_Notes&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0917Ray/Reading_Notes&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0917Ray/Reading_Notes&type=Date" />
+ </picture>
+</a>
