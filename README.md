@@ -6,7 +6,9 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
 
 ## Contents
 - [Standford CS 229, Spring 2022, Machine Learning Course](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
-- City University of Hong Kong, CS5489: Machine Learning, Cheat Sheet
+- City University of Hong Kong
+  - CS5489: Machine Learning, Cheat Sheet
+  - CS5187: Vision and Image, Cheat Sheet
 - Some cookbooks
 - [Standford CS336: Language Modeling from Scratch, Spring 2025](https://stanford-cs336.github.io/spring2025/index.html)
 - Thomas Calculus
