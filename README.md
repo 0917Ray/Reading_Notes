@@ -10,6 +10,8 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
   - CS5489: Machine Learning, Cheat Sheet
   - CS5187: Vision and Image, Cheat Sheet
 - Large Language Model Tutorial
+  - Build GPT from Scratch
+  - Build GPT-2(124M) from Scratch (Part 1-3)
 - Some cookbooks
 - [Standford CS336: Language Modeling from Scratch, Spring 2025](https://stanford-cs336.github.io/spring2025/index.html)
 - Thomas Calculus
