@@ -10,10 +10,11 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
   - CS5489: Machine Learning, Cheat Sheet
   - CS5187: Vision and Image, Cheat Sheet
 - Large Language Model Tutorial
-  - Build GPT from Scratch (Followed by the video
-Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) from [Andrej Karpathy](https://karpathy.ai/))
-  - Build GPT-2(124M) from Scratch (Part 1-3) (Followed by the video [
-Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU&t=8096s) from [Andrej Karpathy](https://karpathy.ai/))
+  - Pre-training
+    - Build GPT from Scratch (Followed by the video [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) from [Andrej Karpathy](https://karpathy.ai/))
+    - Build GPT-2(124M) from Scratch (Part 1-3) (Followed by the video [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU&t=8096s) from [Andrej Karpathy](https://karpathy.ai/))
+  - Post-training
+    - Fine-Tuning LLaMA 3.3 using Unsloth (Followed by Tutorial [How to fine-tune a large language model (LLM)](https://wandb.ai/byyoung3/Generative-AI/reports/How-to-fine-tune-a-large-language-model-LLM---VmlldzoxMDU2NTg4Mw#fine-tuning-llama-3.3-70b-on-a-single-gpu-))
 - Some cookbooks
 - [Standford CS336: Language Modeling from Scratch, Spring 2025](https://stanford-cs336.github.io/spring2025/index.html)
 - Thomas Calculus
