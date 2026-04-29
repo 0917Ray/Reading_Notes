@@ -5,6 +5,7 @@
 
 ## 2. Install PyTorch
 for CUDA 12.8: `pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu128`
+
 for CUDA 13.0: `pip3 install torch torchvision`
 
 ## 3. Install Unsloth
