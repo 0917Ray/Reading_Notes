@@ -1,0 +1,35 @@
+# Core Frameworks
+transformers>=4.47.0
+accelerate==1.2.0 # enables the same PyTorch code to be run across any distributed configuration (single GPU, multiple GPUs, etc.)
+peft # Parameter-Efficient Fine-Tuning, LoRA, AdaLoRA, etc.
+bitsandbytes>=0.45.3 # for quantilization
+
+# Unsloth Framework
+unsloth_zoo # Unsloth framework for fine tune Llama-3
+trl>=0.9.0
+datasets
+sentencepiece
+protobuf
+
+# Recording and Tracking
+weave==0.51.24
+wandb
+
+# Attention Operator
+xformers>=0.0.29
+
+# Plot
+matplotlib
+
+# the following is a simple way to start this project:
+# 1. create a new environment
+# $ conda create -n env_name python=3.xx
+# e.g. conda create -n llama_3_env python=3.11
+
+# 2. activate the environment
+# $ conda activate env_name
+
+# 3. install the required packages
+# $ pwd
+# $ cd your_file_name
+# $ pip install -r requirements.txt
