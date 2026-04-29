@@ -3,16 +3,16 @@
 `conda create -n env_name python=3.xx`
 (e.g. conda create -n llama_3_env python=3.11)
 
-## 2. Install PyTorch
+## 2. Activate the environment
+`conda activate env_name`
+
+## 3. Install PyTorch
 for CUDA 12.8: `pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu128`
 
 for CUDA 13.0: `pip3 install torch torchvision`
 
-## 3. Install Unsloth
+## 4. Install Unsloth
 `pip install unsloth`
-
-## 4. Activate the environment
-`conda activate env_name`
 
 ## 5. Install other required packages
 `pip install -r requirements.txt`
