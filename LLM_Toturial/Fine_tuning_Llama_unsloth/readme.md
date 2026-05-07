@@ -23,5 +23,7 @@ for CUDA 13.0: `pip3 install torch torchvision`
 Run `test_demo` step by step
 
 ## Way 2
-1. Run `llama_70B_tuning.py` to get the fine-tuning results (logs and figures)
-2. Run `llama_70B_inference.py` to test the model's ability to response prompt
+1. Run `llama_tuning.py` to get the fine-tuning results (logs)
+2. Run `llama_inference.py` to test the model's ability to response prompt
+3. Run `losses_plot.py` to get losses
+4. Run `llama_benchmarks.py` and `llama_benchmark_revise.py` to test on Benchmarks
