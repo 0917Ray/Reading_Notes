@@ -9,6 +9,7 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
 - City University of Hong Kong
   - CS5489: Machine Learning, Cheat Sheet
   - CS5187: Vision and Image, Cheat Sheet
+  - CS6491: Topics in Optimization and its Applications in Computer Science, Cheat Sheet
 - Large Language Model Tutorial
   - Pre-training
     - Build GPT from Scratch (Followed by the video [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) from [Andrej Karpathy](https://karpathy.ai/))
