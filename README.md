@@ -21,6 +21,7 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
 - Thomas Calculus
 - [Reinforce learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning), by [Shiyu Zhao](https://www.shiyuzhao.net/), from Westlake University
 - Optimization for data analysis, by [STEPHEN J. WRIGHT](https://wrightstephen.github.io/sw_proj/) and [BENJAMIN RECHT](https://people.eecs.berkeley.edu/~brecht/index.html)
+- [All of Statistics](https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/2004%20-%20wasserman%20-%20all%20of%20statistics.pdf), by [Larry Wasserman](https://www.stat.cmu.edu/~larry/)
 - Classic Papers
   1. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
 
