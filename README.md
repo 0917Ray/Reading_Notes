@@ -27,10 +27,12 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
 
 ## Star History
 
-[<a href="https://www.star-history.com/?repos=0917Ray%2FReading_Notes&type=date&legend=top-left">
+## Star History
+
+<a href="https://www.star-history.com/?repos=0917Ray%2FReading_Notes&type=timeline&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=0917Ray/Reading_Notes&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=0917Ray/Reading_Notes&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=0917Ray/Reading_Notes&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=0917Ray/Reading_Notes&type=timeline&theme=dark&legend=top-left&sealed_token=Rem6KGfYL_ao-FtXSBSjqGDVkN39KJ7vHb0aGKwL236ZpMNdy7uMBXJ7fLVxRMx7q6vs9sxvaInXIhpO8yUhVOunUFx4-8JPYOmCzlQ9rW-2T2-lBSBbt8E6ksqI-Q9lq5EQjQPU_duEg4Loe2pfIkwUquDmJcgqtJg0rEd6hREKUeRAhLrJlhaqLIwf" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=0917Ray/Reading_Notes&type=timeline&legend=top-left&sealed_token=Rem6KGfYL_ao-FtXSBSjqGDVkN39KJ7vHb0aGKwL236ZpMNdy7uMBXJ7fLVxRMx7q6vs9sxvaInXIhpO8yUhVOunUFx4-8JPYOmCzlQ9rW-2T2-lBSBbt8E6ksqI-Q9lq5EQjQPU_duEg4Loe2pfIkwUquDmJcgqtJg0rEd6hREKUeRAhLrJlhaqLIwf" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=0917Ray/Reading_Notes&type=timeline&legend=top-left&sealed_token=Rem6KGfYL_ao-FtXSBSjqGDVkN39KJ7vHb0aGKwL236ZpMNdy7uMBXJ7fLVxRMx7q6vs9sxvaInXIhpO8yUhVOunUFx4-8JPYOmCzlQ9rW-2T2-lBSBbt8E6ksqI-Q9lq5EQjQPU_duEg4Loe2pfIkwUquDmJcgqtJg0rEd6hREKUeRAhLrJlhaqLIwf" />
  </picture>
-</a>](https://www.star-history.com/?repos=0917Ray%2FReading_Notes&type=timeline&legend=bottom-right)
+</a>
