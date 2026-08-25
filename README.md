@@ -1,4 +1,9 @@
 # Reading_Notes
+
+## News
+- August 24, 2026 · The Reading\_Notes Repo has received 100 stars 🌟. Thank you for your support!
+
+
 ## Introduction
 Some study notes, edited using LaTeX. There are inevitably errors in the notes. If you have any questions, please feel free to contact me: changrui0917@gmail.com
 
@@ -24,8 +29,6 @@ Some study notes, edited using LaTeX. There are inevitably errors in the notes. 
 - [All of Statistics](https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/2004%20-%20wasserman%20-%20all%20of%20statistics.pdf), by [Larry Wasserman](https://www.stat.cmu.edu/~larry/)
 - Classic Papers
   1. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
-
-## Star History
 
 ## Star History
 
